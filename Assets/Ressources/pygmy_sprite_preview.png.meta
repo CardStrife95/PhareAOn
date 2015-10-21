@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: b5a5c6be64909d047a43bf55840eed0f
+timeCreated: 1428504115
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pygmy_sprite_preview_0
+    21300002: pygmy_sprite_preview_1
+    21300004: pygmy_sprite_preview_2
+    21300006: pygmy_sprite_preview_3
+    21300008: pygmy_sprite_preview_4
+    21300010: pygmy_sprite_preview_5
+    21300012: pygmy_sprite_preview_6
+    21300014: pygmy_sprite_preview_7
+    21300016: pygmy_sprite_preview_8
+    21300018: pygmy_sprite_preview_9
+    21300020: pygmy_sprite_preview_10
+    21300022: pygmy_sprite_preview_11
+    21300024: pygmy_sprite_preview_12
+    21300026: pygmy_sprite_preview_13
+    21300028: pygmy_sprite_preview_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pygmy_sprite_preview_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 8
+        width: 676
+        height: 1131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_1
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 3
+        width: 452
+        height: 1159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_2
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 8
+        width: 698
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_3
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 265
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_4
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 234
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_5
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 208
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_6
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 208
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_7
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 199
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_8
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 190
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_9
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 181
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_10
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 122
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_11
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 89
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_12
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 70
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_13
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 55
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pygmy_sprite_preview_14
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 24
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
